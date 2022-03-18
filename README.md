@@ -51,7 +51,7 @@ gcloud app browse
 ```
 
 <p align="center">
-  <img src="images\1.png" alt="workflow"/>
+  <img src="images\3.png" alt="workflow"/>
 </p>
 
 
