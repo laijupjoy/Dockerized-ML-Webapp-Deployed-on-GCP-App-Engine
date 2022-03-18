@@ -24,7 +24,7 @@ deleting the project to avoid incurring charges to our Google Cloud account.
 4. Testing the Web Application.
 5. Deleting the Project.
 
-** Create an App Engine application:**
+## Create an App Engine application:
 
 Run the following command to create an App Engine application:
 ```bash
@@ -35,7 +35,7 @@ gcloud app create
   <img src="images\1.png" alt="workflow"/>
 </p>
 
-** Deploy application:**
+## Deploy application:
 
 Run the following command to deploy an application:
 ```bash
@@ -46,7 +46,7 @@ gcloud app deploy
   <img src="images\2.png" alt="workflow"/>
 </p>
 
-** Take generated Service URL from Cloud Terminal:**
+## Take generated Service URL from Cloud Terminal:
 
 ```bash
 gcloud app browse
