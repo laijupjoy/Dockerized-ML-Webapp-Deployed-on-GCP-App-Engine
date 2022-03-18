@@ -26,6 +26,7 @@ deleting the project to avoid incurring charges to our Google Cloud account.
 
 ** Create an App Engine application:**
 
+Run the following command to create an App Engine application:
 ```bash
 gcloud app create
 ```
@@ -36,6 +37,7 @@ gcloud app create
 
 ** Deploy application:**
 
+Run the following command to deploy an application:
 ```bash
 gcloud app deploy
 ```
